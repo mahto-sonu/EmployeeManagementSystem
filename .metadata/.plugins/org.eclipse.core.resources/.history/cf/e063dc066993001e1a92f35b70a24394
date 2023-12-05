@@ -1,0 +1,17 @@
+package com.employee.demo.entity;
+
+public class Employee {
+	
+	private int id;
+	private String name;
+	private String address;
+	private String email;
+	private String phno;
+	private int salary;
+	
+	
+	
+	
+	
+	
+}
